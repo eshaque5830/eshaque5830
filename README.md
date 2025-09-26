@@ -10,7 +10,9 @@ Passionate about leveraging AI and technology to create impact. Experienced in d
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/contact-ishaque/) `#linkedin`
-- [Facebook](#) `#facebook`
-- [Kaggle](#) `#kaggle`
-- [GitHub](#) `#github`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/contact-ishaque/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/eshaque5830)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/ishaquealidad)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?logo=instagram)](https://www.instagram.com/eshaque_alidad/)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://web.facebook.com/eshaque.balti)
+
